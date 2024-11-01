@@ -1,26 +1,19 @@
-## Hi there 👋
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shourya+Pandey....;Nice+to+meet+you!&center=true&size=25">
-  </a>
-</h1>
+# 👋 Hi, I'm Shourya!
 
 <!-- ![](https://komarev.com/ghpvc/?username=Sho-urya25&color=brightgreen) -->
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
+- 🔭 Focusing on FullStack (Frontend + Backend with React and Jva).😎
+- 🌱 Trying to become an expert in Fullstack development and Flutter ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn GPC and want to master JavaBackend(SpringBoot).
+- 🥅 2025 Goals: Learn GPC and want to master JavaBackend(SpringBoot).
 - ⚡ Fact: Dart's "async/await" sugar coats Futures, simplifying asynchronous code
 
 ---
 
 ### Connect With Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandey25/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/shouryap25?igsh=](https://www.instagram.com/shouryap25?igsh=N29tZXZuZ3JlcWdj))
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandey25/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shouryap25?igsh=N29tZXZuZ3JlcWdj/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouryapandeymain25@gmail.com)
 
 ---
