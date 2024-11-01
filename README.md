@@ -13,7 +13,9 @@
 
 ### Connect With Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandey25/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shouryap25?igsh=N29tZXZuZ3JlcWdj/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandey25/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ShouryaPandey-j1y)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shouryap25?igsh=N29tZXZuZ3JlcWdj/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouryapandeymain25@gmail.com)
 
 ---
@@ -66,3 +68,14 @@
 <a href="https://github.com/Sho-urya25/FlutterWeatherApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sho-urya25&repo=FlutterWeatherApp&theme=algolia" />
 </a>
+
+---
+
+### 💻 Seasonal Vlogger 😅
+
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+
+[![About 2024 OpenSourceIndia Event](https://ytcards.demolab.com/?id=dL0LJcxYMa8&title=About+2024+OpenSourceIndia+Event&lang=en&timestamp=1729700362&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "About 2024 OpenSourceIndia Event")](https://youtu.be/dL0LJcxYMa8?si=5_PDFwGLcf80zNZY)
